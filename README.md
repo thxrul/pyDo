@@ -80,7 +80,7 @@ python pydo.py help
 
 ## 👷️ Contributing
 
-This project is meant for learning and experimentation. Feel free to fork it and improve the code, add new features like:
+This project is meant for learning and experimentation. Planning to add new features like:
 
 * Task categories
 * Marking tasks as "done"
